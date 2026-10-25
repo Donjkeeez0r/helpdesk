@@ -1,6 +1,6 @@
 # HelpDesk — система учёта заявок в техподдержку
 
-**Ссылка на доску:**https://github.com/users/Donjkeeez0r/projects/1/views/1
+**Ссылка на доску:** https://github.com/users/Donjkeeez0r/projects/1/views/1
 
 ## 1. Тема и проблема:
 
